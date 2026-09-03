@@ -42,8 +42,10 @@ These repetitive processes can consume staff time and increase the possibility o
 ---
 # Solution
 ---
+
 ### Workflow 1 — New Member Registration
 <details><summary>More</summary>
+<img width="1024" height="1536" alt="Reg" src="https://github.com/user-attachments/assets/df555a1d-f2f2-40e0-934e-051a60adf96b" />
 When a new member submits the registration form:
 
 ```text
@@ -146,7 +148,9 @@ _This allows the email to address the member personally._
 ### Workflow 2 — Membership Expiry Monitoring
 
 <details><summary>More</summary>
-  
+
+<img width="1024" height="1536" alt="Monitoring" src="https://github.com/user-attachments/assets/9634e9be-3007-44c5-b9ba-7fb12faa5f16" />
+
 A scheduled workflow runs every day at 6:00am
 ```text
 Schedule Trigger
@@ -240,7 +244,9 @@ _The notification is then sent through Telegram._
 ### Workflow 3 — Membership Payment Automation
 
 <details><summary>More</summary>
-  
+
+<img width="1024" height="1536" alt="Repayment" src="https://github.com/user-attachments/assets/4857f5af-532a-4a14-91ee-d4a39e7976e5" />
+
 ## Purpose
 
 The payment workflow automates the process of recording and managing gym membership payments, 
@@ -430,6 +436,8 @@ Members receive a reminder three days before their membership expires.
 </details>
 
 ## Technology Stack
+<img width="2229" height="1205" alt="Screenshot 2026-09-03 125159" src="https://github.com/user-attachments/assets/001eec91-4fb6-4c9e-9cd4-8d2ee02760b1" />
+
 ```
 Automation: n8n
 Database: Airtable
