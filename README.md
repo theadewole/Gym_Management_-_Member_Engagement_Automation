@@ -436,8 +436,6 @@ Members receive a reminder three days before their membership expires.
 </details>
 
 ## Technology Stack
-<img width="2229" height="1205" alt="Screenshot 2026-09-03 125159" src="https://github.com/user-attachments/assets/001eec91-4fb6-4c9e-9cd4-8d2ee02760b1" />
-
 ```
 Automation: n8n
 Database: Airtable
@@ -457,5 +455,11 @@ Workflow Automation | n8n | Webhook Integration | Stripe Integration | Airtable 
 API/Event Processing | JSON Data Transformation | JavaScript | Python | Conditional Logic |
 Data Mapping | Subscription Management | Automated Email | Telegram Notifications | Date Calculation | Business Process Automation
 ```
+---
+## 🎥 Demo
+<img width="2229" height="1205" alt="Screenshot 2026-09-03 125159" src="https://github.com/user-attachments/assets/001eec91-4fb6-4c9e-9cd4-8d2ee02760b1" />
+
+**[▶️ Watch the full demo](https://drive.google.com/file/d/1munORIBilswr9YhZn5m5YU5ithqNR_Yt/view?usp=sharing)**
+
 
 
